@@ -1,5 +1,5 @@
 ### NideShop商城（微信小程序端）
-### 后台api项目地址：https://github.com/JasonVanCode/wechatshop
+### 后台api项目地址：https://github.com/JasonVanCode/shopadmin
 ### 功能列表
 + 首页
 + 分类首页、分类商品、新品首发、人气推荐商品页面
